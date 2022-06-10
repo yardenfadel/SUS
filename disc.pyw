@@ -59,4 +59,4 @@ while True:
        	    sleep(0.02)
         except Exception as e:
             POST_r = requests.post(url = POST_URL, data={"data":e})
-//credit to https://github.com/jonathanbreitg/dump/blob/main/small_amongus.pyw
+#credit to https://github.com/jonathanbreitg/dump/blob/main/small_amongus.pyw
